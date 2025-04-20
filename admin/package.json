@@ -1,8 +1,8 @@
 {
-  "name": "admin",
+  "name": "trivia-game-admin",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://M0Hany.github.io/trivia-game",
+  "homepage": "https://m0hany.github.io/trivia-game-admin",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
